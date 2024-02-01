@@ -1,11 +1,12 @@
 # cs56final
-What are the names of group members?
+A) What are the names of group members?
 Johnny Haro, Allison Serrano, Yuqi He, Jingbo Jiang, Cesar Bautista
-What Java version are you using?
 
-What IDE are you using?
+B) What Java version are you using?
+21
+C) What IDE are you using?
 Microsoft Visual Studio
-What challenges were you facing?
+D) What challenges were you facing?
 
-Is there anything that is not working? If so, what is it and what have you tried to get it to work?
+F) Is there anything that is not working? If so, what is it and what have you tried to get it to work?
 
